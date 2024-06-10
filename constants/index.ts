@@ -66,17 +66,11 @@ export const Skill_data = [
       height: 80,
     },
     {
-      skill_name: "Node js",
-      Image: "/node-js.png",
+      skill_name: "Angular",
+      Image: "/angular.png",
       width: 80,
       height: 80,
-    },
-    {
-      skill_name: "Mongo db",
-      Image: "/mongodb.png",
-      width: 40,
-      height: 40,
-    },
+    }
   
   ];
   
@@ -102,62 +96,62 @@ export const Skill_data = [
   
   export const Frontend_skill = [
     {
-      skill_name: "Html 5",
-      Image: "/html.png",
+      skill_name: "Golang",
+      Image: "/go.png",
       width: 80,
       height: 80,
     },
     {
-      skill_name: "Css",
-      Image: "/css.png",
+      skill_name: "Java",
+      Image: "/Java.png",
       width: 80,
       height: 80,
     },
     {
-      skill_name: "Java Script",
-      Image: "/js.png",
+      skill_name: "Quarkus",
+      Image: "/quarkus.png",
       width: 65,
       height: 65,
     },
     {
-      skill_name: "Tailwind Css",
-      Image: "/tailwind.png",
+      skill_name: "AWS",
+      Image: "/aws.webp",
       width: 80,
       height: 80,
     },
     {
-      skill_name: "Material UI",
-      Image: "/mui.png",
+      skill_name: "Github",
+      Image: "/github.png",
       width: 80,
       height: 80,
     },
     {
-      skill_name: "React",
-      Image: "/react.png",
+      skill_name: "Jenkins",
+      Image: "/jenkins.png",
       width: 80,
       height: 80,
     },
     {
-      skill_name: "Redux",
-      Image: "/redux.png",
+      skill_name: "Terraform",
+      Image: "/terra.png",
       width: 80,
       height: 80,
     },
     {
-      skill_name: "React Query",
-      Image: "/reactquery.png",
+      skill_name: "Spring",
+      Image: "/spring.png",
       width: 80,
       height: 80,
     },
     {
-      skill_name: "Type Script",
-      Image: "/ts.png",
+      skill_name: "R",
+      Image: "/r.png",
       width: 80,
       height: 80,
     },
     {
-      skill_name: "Next js 13",
-      Image: "/next.png",
+      skill_name: "Rust",
+      Image: "/rust.png",
       width: 80,
       height: 80,
     },
@@ -247,8 +241,8 @@ export const Skill_data = [
   
   export const Other_skill = [
     {
-      skill_name: "Go",
-      Image: "/go.png",
+      skill_name: "Jira",
+      Image: "/jira.png",
       width: 60,
       height: 60,
     },
