@@ -78,17 +78,17 @@ export const Skill_data = [
     {
       name: "Instagram",
       src: "/instagram.svg",
-      url: 'https://www.instagram.com/alejo_2097/'
+      url: 'https://www.instagram.com/alejo_2097/',
     },
     {
       name: "Facebook",
       src: "/facebook.svg",
-      url: 'https://www.facebook.com/alejandro.huertas.35'
+      url: 'https://www.facebook.com/alejandro.huertas.35',
     },
     {
       name: "LinkedIn",
       src: "/linkedin.svg",
-      url: 'https://www.linkedin.com/in/alejandro-huertas73/'
+      url: 'https://www.linkedin.com/in/alejandro-huertas73/',
     },
   ];
   
